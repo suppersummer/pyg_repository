@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [09/Dec/2018:15:09:45 +0800] "GET /index.jsp HTTP/1.1" 302 - http-bio-9001-exec-1 105
+0:0:0:0:0:0:0:1 - - [09/Dec/2018:15:09:48 +0800] "GET /index.jsp?ticket=ST-1-sKVnlrlCPHeUJmbAbzyI-cas01.example.org HTTP/1.1" 302 - http-bio-9001-exec-3 2555
+0:0:0:0:0:0:0:1 - - [09/Dec/2018:15:09:49 +0800] "GET /index.jsp;jsessionid=AE7CFB5C061B31A6EF12ED7C0B48AB12 HTTP/1.1" 200 74 http-bio-9001-exec-4 1220
+0:0:0:0:0:0:0:1 - - [09/Dec/2018:15:09:49 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9001-exec-5 3
+127.0.0.1 - - [09/Dec/2018:15:15:59 +0800] "POST /index.jsp HTTP/1.1" 200 - http-bio-9001-exec-8 20
+0:0:0:0:0:0:0:1 - - [09/Dec/2018:15:20:11 +0800] "GET /index.jsp HTTP/1.1" 302 - http-bio-9001-exec-10 1
+0:0:0:0:0:0:0:1 - - [09/Dec/2018:15:20:11 +0800] "GET /index.jsp?ticket=ST-3-CwyvnkrAGHakaQ9F4uIw-cas01.example.org HTTP/1.1" 302 - http-bio-9001-exec-10 25
+0:0:0:0:0:0:0:1 - - [09/Dec/2018:15:20:11 +0800] "GET /index.jsp HTTP/1.1" 200 163 http-bio-9001-exec-10 161
+127.0.0.1 - - [09/Dec/2018:15:20:13 +0800] "POST /index.jsp HTTP/1.1" 200 - http-bio-9001-exec-6 6
